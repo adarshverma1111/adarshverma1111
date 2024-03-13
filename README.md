@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @adarshverma1111
+- 👋 Hi, I’m @adarshverma1111(ADARSH) 
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me adarshkumarverms@gmail.com
-- 😄 Pronouns:Adarsh
+- 😄 Pronouns:He/him
 
 
 <!---
